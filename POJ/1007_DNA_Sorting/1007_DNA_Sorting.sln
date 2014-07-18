@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1007_DNA_Sorting", "1007_DNA_Sorting\1007_DNA_Sorting.vcproj", "{6B37E8F8-15C0-4B47-810F-FC1682B1DAD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B37E8F8-15C0-4B47-810F-FC1682B1DAD2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B37E8F8-15C0-4B47-810F-FC1682B1DAD2}.Debug|Win32.Build.0 = Debug|Win32
+		{6B37E8F8-15C0-4B47-810F-FC1682B1DAD2}.Release|Win32.ActiveCfg = Release|Win32
+		{6B37E8F8-15C0-4B47-810F-FC1682B1DAD2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1251_Jungle_Roads", "1251_Jungle_Roads\1251_Jungle_Roads.vcproj", "{0C3E8A0F-45A9-4A41-BAA1-AA41375D5762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C3E8A0F-45A9-4A41-BAA1-AA41375D5762}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C3E8A0F-45A9-4A41-BAA1-AA41375D5762}.Debug|Win32.Build.0 = Debug|Win32
+		{0C3E8A0F-45A9-4A41-BAA1-AA41375D5762}.Release|Win32.ActiveCfg = Release|Win32
+		{0C3E8A0F-45A9-4A41-BAA1-AA41375D5762}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fence3", "fence3\fence3.vcproj", "{EDA57C72-FE22-4D90-B2D0-C31CBF2A3EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release STLP DLL|Win32 = Release STLP DLL|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA57C72-FE22-4D90-B2D0-C31CBF2A3EAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDA57C72-FE22-4D90-B2D0-C31CBF2A3EAD}.Debug|Win32.Build.0 = Debug|Win32
+		{EDA57C72-FE22-4D90-B2D0-C31CBF2A3EAD}.Release STLP DLL|Win32.ActiveCfg = Release STLP DLL|Win32
+		{EDA57C72-FE22-4D90-B2D0-C31CBF2A3EAD}.Release STLP DLL|Win32.Build.0 = Release STLP DLL|Win32
+		{EDA57C72-FE22-4D90-B2D0-C31CBF2A3EAD}.Release|Win32.ActiveCfg = Release|Win32
+		{EDA57C72-FE22-4D90-B2D0-C31CBF2A3EAD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

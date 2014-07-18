@@ -1,0 +1,7 @@
+Number of vertexes: 800
+
+Floyd consumed:     17.576 secs
+SPFA consumed:      51.864 secs
+SPFA(opt1) consumed: 44.054 secs
+SPFA(opt2) consumed: 33.358 secs
+Dijkstra consumed:  16.844 secs

@@ -1,0 +1,45 @@
+USER: Jinlin Wang [wjl1241]
+TASK: wissqu
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [2.603 secs, 2948 KB]
+
+All tests OK.
+Your program ('wissqu') produced all correct answers!  This is your
+submission #4 for this problem.  Congratulations!
+
+USER: Jinlin Wang [wjl1241]
+TASK: wissqu
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [2.117 secs, 2940 KB]
+
+All tests OK.
+Your program ('wissqu') produced all correct answers!  This is your
+submission #5 for this problem.  Congratulations!
+
+
+Here are the test data inputs:
+
+------- test 1 -------
+ABAC
+DCDE
+BEBC
+CADE
+
+Keep up the good work!
+
+
+Thanks for your submission!
+
+
+算法无误，前几次错误是由于 unsigned long long 型数字未加 ULL 后缀导致编译失败
+教训啊~~

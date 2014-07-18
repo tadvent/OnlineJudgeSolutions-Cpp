@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "subset", "subset\subset.vcproj", "{ECD3E2E0-489B-4BAD-AFCD-7CFD438BD70A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD3E2E0-489B-4BAD-AFCD-7CFD438BD70A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECD3E2E0-489B-4BAD-AFCD-7CFD438BD70A}.Debug|Win32.Build.0 = Debug|Win32
+		{ECD3E2E0-489B-4BAD-AFCD-7CFD438BD70A}.Release|Win32.ActiveCfg = Release|Win32
+		{ECD3E2E0-489B-4BAD-AFCD-7CFD438BD70A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

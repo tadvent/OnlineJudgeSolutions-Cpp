@@ -17,5 +17,13 @@
 
 # Executables
 *.exe
-*.out
+# *.out
 *.app
+
+# Other Files
+*.sdf
+*.pdb
+*.ipch
+*.idb
+*.ncb
+*.ilk

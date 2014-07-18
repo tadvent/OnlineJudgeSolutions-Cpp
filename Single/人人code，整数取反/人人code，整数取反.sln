@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "人人code，整数取反", "人人code，整数取反.vcxproj", "{59DBC987-FEF7-4EAC-8B85-E93C6BEEA151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DBC987-FEF7-4EAC-8B85-E93C6BEEA151}.Debug|Win32.ActiveCfg = Debug|Win32
+		{59DBC987-FEF7-4EAC-8B85-E93C6BEEA151}.Debug|Win32.Build.0 = Debug|Win32
+		{59DBC987-FEF7-4EAC-8B85-E93C6BEEA151}.Release|Win32.ActiveCfg = Release|Win32
+		{59DBC987-FEF7-4EAC-8B85-E93C6BEEA151}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

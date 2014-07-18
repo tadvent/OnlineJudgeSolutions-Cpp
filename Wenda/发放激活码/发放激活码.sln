@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "发放激活码", "发放激活码.vcxproj", "{C561E61D-2319-4C0D-9B27-9E90F52CBC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C561E61D-2319-4C0D-9B27-9E90F52CBC4F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C561E61D-2319-4C0D-9B27-9E90F52CBC4F}.Debug|Win32.Build.0 = Debug|Win32
+		{C561E61D-2319-4C0D-9B27-9E90F52CBC4F}.Release|Win32.ActiveCfg = Release|Win32
+		{C561E61D-2319-4C0D-9B27-9E90F52CBC4F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

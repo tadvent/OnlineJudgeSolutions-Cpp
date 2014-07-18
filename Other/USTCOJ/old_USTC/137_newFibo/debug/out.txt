@@ -1,0 +1,3 @@
+The New Fibonacci number for 5 is 11
+The New Fibonacci number for 7 is 37
+The New Fibonacci number for 11 is 423

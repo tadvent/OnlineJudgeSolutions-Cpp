@@ -27,3 +27,5 @@
 *.idb
 *.ncb
 *.ilk
+*.tlog
+

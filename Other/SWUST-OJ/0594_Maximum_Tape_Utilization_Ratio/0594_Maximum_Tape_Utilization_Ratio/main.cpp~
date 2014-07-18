@@ -1,0 +1,87 @@
+#include<cstdio>
+#include<algorithm>
+
+int N, L;
+int l[600];
+int ans[600], ans_size, ans_sum;
+
+int* sortPt[600];
+
+bool input(){
+    if(scanf("%d%d", &N, &L) != 2)return false;
+    for(int i=0; i<N; ++i)scanf("%d", l+i);
+    ans_size = 0;
+    ans_sum = 0;
+    return true;
+}
+
+void output(){
+    printf("%d %d\n", ans_size, ans_sum);
+    if(ans_size > 0)printf("%d", ans[0]);
+    for(int i=1; i<ans_size; ++i)
+        printf(" %d", ans[i]);
+    putchar('\n');
+}
+
+template<class T>
+class ptLess{
+public:
+    bool operator()(const T *const p1, const T *const p2) const {
+        return *p1 < *p2;
+    }
+};
+
+int ptIdx[600];
+int *tmpAs[600];
+
+// 排 ptIdx 的第 k 个位置，算上这个还要排 kl 个位置
+// 之前的值和为 sum
+// 从 sortPt[] 的第 m 个指针开始到第 n 个指针所指元素中组合选数
+// 能生成有效排列返回 true 否则返回 false
+bool dfs(const int k, const int kl, const int sum, const int m, const int n){
+    if(kl == 0){
+        if(sum > ans_sum){
+            ans_sum = sum;
+            for(int i=0; i<k; ++i)
+                tmpAs[i] = sortPt[ptIdx[i]];
+        }
+        return true;
+    }
+    bool ret = false;
+    for(int i=m; i<=n-kl; ++i){
+        if(sum + *sortPt[i] > L)break;
+        ptIdx[k] = i;
+        if(!dfs(k+1, kl-1, sum+*sortPt[i], i+1, n))break;
+        ret = true;
+    }
+    return ret;
+}
+
+void calc(){
+    // init
+    for(int i=0; i<N; ++i)
+        sortPt[i] = l+i;
+    std::sort(sortPt, sortPt+N, ptLess<int>());
+
+    int empty = L;
+    for(ans_size=0; ans_size<N; ++ans_size){
+        if(*sortPt[ans_size] <= empty){
+            empty -= *sortPt[ans_size];
+        } else break;
+    }
+
+    // dfs
+    if(!dfs(0, ans_size, 0, 0, N)) return;
+    std::sort(tmpAs, tmpAs+ans_size);
+    for(int i=0; i<ans_size; ++i)
+        ans[i] = *tmpAs[i];
+}
+
+int main(){
+    freopen("i.txt", "r", stdin);
+    freopen("o.txt", "w", stdout);
+    while(input()){
+        calc();
+        output();
+    }
+}

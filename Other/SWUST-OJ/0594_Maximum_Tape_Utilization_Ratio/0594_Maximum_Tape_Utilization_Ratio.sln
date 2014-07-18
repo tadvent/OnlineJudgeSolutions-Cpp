@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0594_Maximum_Tape_Utilization_Ratio", "0594_Maximum_Tape_Utilization_Ratio\0594_Maximum_Tape_Utilization_Ratio.vcproj", "{6C86FCE3-F4B5-4744-9B23-D8C9355F3C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C86FCE3-F4B5-4744-9B23-D8C9355F3C1B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C86FCE3-F4B5-4744-9B23-D8C9355F3C1B}.Debug|Win32.Build.0 = Debug|Win32
+		{6C86FCE3-F4B5-4744-9B23-D8C9355F3C1B}.Release|Win32.ActiveCfg = Release|Win32
+		{6C86FCE3-F4B5-4744-9B23-D8C9355F3C1B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

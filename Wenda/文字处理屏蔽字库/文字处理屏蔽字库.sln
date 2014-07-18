@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文字处理屏蔽字库", "文字处理屏蔽字库.vcxproj", "{C2A6A22B-04B6-4BD6-B02D-97ADEE27E998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A6A22B-04B6-4BD6-B02D-97ADEE27E998}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2A6A22B-04B6-4BD6-B02D-97ADEE27E998}.Debug|Win32.Build.0 = Debug|Win32
+		{C2A6A22B-04B6-4BD6-B02D-97ADEE27E998}.Release|Win32.ActiveCfg = Release|Win32
+		{C2A6A22B-04B6-4BD6-B02D-97ADEE27E998}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

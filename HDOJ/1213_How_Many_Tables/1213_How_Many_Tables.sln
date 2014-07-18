@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1213_How_Many_Tables", "1213_How_Many_Tables\1213_How_Many_Tables.vcproj", "{0BB74CB0-04EC-4CEF-BA5D-90DAF0B3ADAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB74CB0-04EC-4CEF-BA5D-90DAF0B3ADAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0BB74CB0-04EC-4CEF-BA5D-90DAF0B3ADAC}.Debug|Win32.Build.0 = Debug|Win32
+		{0BB74CB0-04EC-4CEF-BA5D-90DAF0B3ADAC}.Release|Win32.ActiveCfg = Release|Win32
+		{0BB74CB0-04EC-4CEF-BA5D-90DAF0B3ADAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

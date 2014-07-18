@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1048_The_Hardest_Problem_Ever", "1048_The_Hardest_Problem_Ever\1048_The_Hardest_Problem_Ever.vcproj", "{756A6E63-3E45-4BE0-879E-148D8CFB3494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756A6E63-3E45-4BE0-879E-148D8CFB3494}.Debug|Win32.ActiveCfg = Debug|Win32
+		{756A6E63-3E45-4BE0-879E-148D8CFB3494}.Debug|Win32.Build.0 = Debug|Win32
+		{756A6E63-3E45-4BE0-879E-148D8CFB3494}.Release|Win32.ActiveCfg = Release|Win32
+		{756A6E63-3E45-4BE0-879E-148D8CFB3494}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2021_发工资咯：）", "2021_发工资咯：）\2021_发工资咯：）.vcproj", "{DDFB65FD-CF15-43E5-8CE6-AB7C9ECD0CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFB65FD-CF15-43E5-8CE6-AB7C9ECD0CC1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDFB65FD-CF15-43E5-8CE6-AB7C9ECD0CC1}.Debug|Win32.Build.0 = Debug|Win32
+		{DDFB65FD-CF15-43E5-8CE6-AB7C9ECD0CC1}.Release|Win32.ActiveCfg = Release|Win32
+		{DDFB65FD-CF15-43E5-8CE6-AB7C9ECD0CC1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

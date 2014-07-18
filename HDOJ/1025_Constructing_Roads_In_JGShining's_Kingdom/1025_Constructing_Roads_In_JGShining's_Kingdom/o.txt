@@ -1,0 +1,6 @@
+Case 1:
+My king, at most 1 road can be built.
+
+Case 2:
+My king, at most 2 roads can be built.
+

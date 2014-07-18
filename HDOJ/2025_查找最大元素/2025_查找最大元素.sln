@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2025_查找最大元素", "2025_查找最大元素\2025_查找最大元素.vcproj", "{E63ADB2E-E946-449C-80E4-01A7BB5EDF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63ADB2E-E946-449C-80E4-01A7BB5EDF18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E63ADB2E-E946-449C-80E4-01A7BB5EDF18}.Debug|Win32.Build.0 = Debug|Win32
+		{E63ADB2E-E946-449C-80E4-01A7BB5EDF18}.Release|Win32.ActiveCfg = Release|Win32
+		{E63ADB2E-E946-449C-80E4-01A7BB5EDF18}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

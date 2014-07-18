@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2041_超级楼梯", "2041_超级楼梯\2041_超级楼梯.vcproj", "{4FC6B44A-ECAA-478A-A1E9-C233C143FC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC6B44A-ECAA-478A-A1E9-C233C143FC28}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FC6B44A-ECAA-478A-A1E9-C233C143FC28}.Debug|Win32.Build.0 = Debug|Win32
+		{4FC6B44A-ECAA-478A-A1E9-C233C143FC28}.Release|Win32.ActiveCfg = Release|Win32
+		{4FC6B44A-ECAA-478A-A1E9-C233C143FC28}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

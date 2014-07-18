@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1878_欧拉回路", "1878_欧拉回路\1878_欧拉回路.vcproj", "{E00766A7-F84D-46C4-A549-2915AED77648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E00766A7-F84D-46C4-A549-2915AED77648}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E00766A7-F84D-46C4-A549-2915AED77648}.Debug|Win32.Build.0 = Debug|Win32
+		{E00766A7-F84D-46C4-A549-2915AED77648}.Release|Win32.ActiveCfg = Release|Win32
+		{E00766A7-F84D-46C4-A549-2915AED77648}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

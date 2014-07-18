@@ -1,0 +1,6 @@
+Josephus    5  376
+John        4  284
+Alice       4  352
+Smith       3  167
+Bob         2  325
+Bush        0    0

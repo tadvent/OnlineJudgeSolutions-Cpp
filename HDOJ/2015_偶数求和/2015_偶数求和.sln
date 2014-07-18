@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2015_偶数求和", "2015_偶数求和\2015_偶数求和.vcproj", "{06A4955B-8480-4AA1-A115-1C2DDF1F91B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A4955B-8480-4AA1-A115-1C2DDF1F91B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06A4955B-8480-4AA1-A115-1C2DDF1F91B5}.Debug|Win32.Build.0 = Debug|Win32
+		{06A4955B-8480-4AA1-A115-1C2DDF1F91B5}.Release|Win32.ActiveCfg = Release|Win32
+		{06A4955B-8480-4AA1-A115-1C2DDF1F91B5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1069_Monkey_and_Banana", "1069_Monkey_and_Banana\1069_Monkey_and_Banana.vcproj", "{1B78202D-1779-4D5C-A4FD-2E71AB757CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B78202D-1779-4D5C-A4FD-2E71AB757CB3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B78202D-1779-4D5C-A4FD-2E71AB757CB3}.Debug|Win32.Build.0 = Debug|Win32
+		{1B78202D-1779-4D5C-A4FD-2E71AB757CB3}.Release|Win32.ActiveCfg = Release|Win32
+		{1B78202D-1779-4D5C-A4FD-2E71AB757CB3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1290_献给杭电五十周年校庆的礼物", "1290_献给杭电五十周年校庆的礼物\1290_献给杭电五十周年校庆的礼物.vcproj", "{7783CBF8-4B0F-43A9-AB95-AD3574B92D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7783CBF8-4B0F-43A9-AB95-AD3574B92D77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7783CBF8-4B0F-43A9-AB95-AD3574B92D77}.Debug|Win32.Build.0 = Debug|Win32
+		{7783CBF8-4B0F-43A9-AB95-AD3574B92D77}.Release|Win32.ActiveCfg = Release|Win32
+		{7783CBF8-4B0F-43A9-AB95-AD3574B92D77}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

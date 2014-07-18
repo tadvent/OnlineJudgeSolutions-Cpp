@@ -1,0 +1,11 @@
+3
+Alice Bob
+Smith John
+Alice Smith
+5
+a c
+c d
+d e
+b e
+a d
+0

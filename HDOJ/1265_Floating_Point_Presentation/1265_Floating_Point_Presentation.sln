@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1265_Floating_Point_Presentation", "1265_Floating_Point_Presentation\1265_Floating_Point_Presentation.vcproj", "{D694F3BE-1D61-4663-9390-79932E46CF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D694F3BE-1D61-4663-9390-79932E46CF47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D694F3BE-1D61-4663-9390-79932E46CF47}.Debug|Win32.Build.0 = Debug|Win32
+		{D694F3BE-1D61-4663-9390-79932E46CF47}.Release|Win32.ActiveCfg = Release|Win32
+		{D694F3BE-1D61-4663-9390-79932E46CF47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

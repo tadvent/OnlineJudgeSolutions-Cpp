@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2084_数塔", "2084_数塔\2084_数塔.vcproj", "{F2C22D8C-77DC-48C1-AF61-632A6C28A0D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C22D8C-77DC-48C1-AF61-632A6C28A0D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2C22D8C-77DC-48C1-AF61-632A6C28A0D4}.Debug|Win32.Build.0 = Debug|Win32
+		{F2C22D8C-77DC-48C1-AF61-632A6C28A0D4}.Release|Win32.ActiveCfg = Release|Win32
+		{F2C22D8C-77DC-48C1-AF61-632A6C28A0D4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

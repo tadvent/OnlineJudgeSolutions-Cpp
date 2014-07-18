@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="80">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="2119_Matrix" root=".">
+      <df name="build">
+        <df name="CMakeFiles">
+          <df name="CMakeTmp">
+            <df name="CMakeFiles">
+              <df name="cmTryCompileExec.dir">
+              </df>
+            </df>
+          </df>
+          <df name="CompilerIdC">
+            <in>CMakeCCompilerId.c</in>
+          </df>
+          <df name="CompilerIdCXX">
+            <in>CMakeCXXCompilerId.cpp</in>
+          </df>
+          <df name="matrix.dir">
+          </df>
+        </df>
+      </df>
+      <in>main.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>CMakeLists.txt</itemPath>
+      <itemPath>build/Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>build/Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>build</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>build/matrix.exe</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++/debug</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++/mingw32/bits</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/include</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++/ext</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++/mingw32/bits</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++/debug</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++/bits</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++</pElem>
+              <pElem>build</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++/bits</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/e:/documents/ACM/HDOJ/2119_Matrix</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++/ext</pElem>
+            </incDir>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c"
+            ex="true"
+            tool="0"
+            flavor="0">
+      </item>
+      <item path="build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+            ex="true"
+            tool="1"
+            flavor="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor="4">
+      </item>
+    </conf>
+    <conf name="Debug" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>build</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>build/matrix.exe</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++/debug</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++/mingw32/bits</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/include</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++/ext</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++/mingw32/bits</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++/debug</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include/c++/bits</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++</pElem>
+              <pElem>build</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/d:/programming/mingw/lib/gcc/mingw32/4.5.2/include</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++/bits</pElem>
+              <pElem>E:/documents/ACM/HDOJ/2119_Matrix/build/e:/documents/ACM/HDOJ/2119_Matrix</pElem>
+              <pElem>../../../../programming/MinGW/lib/gcc/mingw32/4.5.2/include/c++/ext</pElem>
+            </incDir>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c"
+            ex="true"
+            tool="0"
+            flavor="0">
+      </item>
+      <item path="build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+            ex="true"
+            tool="1"
+            flavor="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

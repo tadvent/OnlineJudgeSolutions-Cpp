@@ -1,0 +1,80 @@
+/*
+ * File:   main.cpp
+ * Author: tadvent
+ *
+ * Created on June 13, 2011, 4:39 PM
+ */
+
+// Wrong Answer !!
+/*
+#include <cstdlib>
+#include <iostream>
+#include <set>
+#include <cstdio>
+#include <cstring>
+
+using namespace std;
+
+int n, m;
+set<int> row[105];
+set<int> col[105];
+int cnt[205];
+
+bool input(){
+    if(!(cin >> n >> m) || n == 0) return false;
+    memset(cnt, 0, sizeof(cnt));
+    for(int i=0; i<n; ++i)for(int j=0; j<m; ++j){
+        int d;
+        cin >> d;
+        if(d == 1){
+            row[i].insert(j);
+            ++cnt[i];
+            col[j].insert(i);
+            ++cnt[n+j];
+        }
+    }
+    return true;
+}
+
+bool reduce(){
+    int max = 0, idx = 0;
+    for(int i=0; i<m+n; ++i){
+        if(cnt[i] > max){
+            max = cnt[i];
+            idx = i;
+        }
+    }
+    if(max == 0) return false;
+    cnt[idx] = 0;
+    if(idx < n){
+        for(set<int>::const_iterator i = row[idx].begin();
+                i != row[idx].end(); ++i){
+            col[*i].erase(idx);
+            --cnt[n+(*i)];
+        }
+    } else {
+        for(set<int>::const_iterator i = col[idx-n].begin();
+                i != col[idx-n].end(); ++i){
+            row[*i].erase(idx-n);
+            --cnt[*i];
+        }
+    }
+    return true;
+}
+
+int calc(){
+    int count = 0;
+    while(reduce()) ++count;
+    return count;
+}
+
+int main(int argc, char** argv) {
+#ifndef ONLINE_JUDGE
+    freopen("i.txt", "r", stdin);
+    freopen("o.txt", "w", stdout);
+#endif
+    while(input()) cout << calc() << '\n';
+
+    return 0;
+}
+ */

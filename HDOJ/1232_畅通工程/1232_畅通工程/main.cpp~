@@ -1,0 +1,36 @@
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+int calc(){ // return -1 if finished
+    static int group[1000];
+    int nTown, nEdge, nGroup;
+
+    if(scanf("%d", &nTown) == EOF || nTown == 0)return -1;
+    for(int i=0; i<nTown; ++i)group[i] = i;
+    nGroup = nTown;
+    scanf("%d", &nEdge);
+    while(nEdge--){
+        int x, y, idx, idy, idm;
+        scanf("%d%d", &x,&y); --x,--y;
+        idx = x; idy = y;
+        while(idx != group[idx])idx = group[idx];
+        while(idy != group[idy])idy = group[idy];
+        if(idx == idy)continue;
+        --nGroup;
+        idm = min(idx, idy);
+        for(idx = group[x]; idx != idm; x = group[idx], idx = group[x])group[x] = idm;
+        for(idy = group[y]; idy != idm; y = group[idy], idy = group[y])group[y] = idm;
+    }
+    return nGroup - 1;
+}
+
+int main(){
+#ifndef ONLINE_JUDGE
+    freopen("i.txt", "r", stdin);
+    freopen("o.txt", "w", stdout);
+#endif
+    int rst;
+    while((rst = calc()) != -1)
+        printf("%d\n", rst);
+}

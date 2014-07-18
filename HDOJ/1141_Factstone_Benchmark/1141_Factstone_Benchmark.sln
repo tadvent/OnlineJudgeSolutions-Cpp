@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1141_Factstone_Benchmark", "1141_Factstone_Benchmark\1141_Factstone_Benchmark.vcproj", "{AF593CB8-FCF4-4B31-868C-ED8785E059DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF593CB8-FCF4-4B31-868C-ED8785E059DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF593CB8-FCF4-4B31-868C-ED8785E059DB}.Debug|Win32.Build.0 = Debug|Win32
+		{AF593CB8-FCF4-4B31-868C-ED8785E059DB}.Release|Win32.ActiveCfg = Release|Win32
+		{AF593CB8-FCF4-4B31-868C-ED8785E059DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

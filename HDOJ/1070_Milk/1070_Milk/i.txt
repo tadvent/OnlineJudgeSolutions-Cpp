@@ -1,0 +1,9 @@
+2
+2
+Yili 10 500
+Mengniu 20 1000
+4
+Yili 10 500
+Mengniu 20 1000
+Guangming 1 199
+Yanpai 40 10000

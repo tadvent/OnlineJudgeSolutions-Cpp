@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1159_Common_Subsequence", "1159_Common_Subsequence\1159_Common_Subsequence.vcproj", "{F8AC5EE3-81B1-4AA5-A9FD-79C08682AF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8AC5EE3-81B1-4AA5-A9FD-79C08682AF34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8AC5EE3-81B1-4AA5-A9FD-79C08682AF34}.Debug|Win32.Build.0 = Debug|Win32
+		{F8AC5EE3-81B1-4AA5-A9FD-79C08682AF34}.Release|Win32.ActiveCfg = Release|Win32
+		{F8AC5EE3-81B1-4AA5-A9FD-79C08682AF34}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

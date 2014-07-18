@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2004_成绩转换", "2004_成绩转换\2004_成绩转换.vcproj", "{D818A633-C52D-449E-A06D-ED8558A63714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D818A633-C52D-449E-A06D-ED8558A63714}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D818A633-C52D-449E-A06D-ED8558A63714}.Debug|Win32.Build.0 = Debug|Win32
+		{D818A633-C52D-449E-A06D-ED8558A63714}.Release|Win32.ActiveCfg = Release|Win32
+		{D818A633-C52D-449E-A06D-ED8558A63714}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

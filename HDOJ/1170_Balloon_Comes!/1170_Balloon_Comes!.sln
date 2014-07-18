@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1170_Balloon_Comes!", "1170_Balloon_Comes!\1170_Balloon_Comes!.vcproj", "{115E42A4-6446-404B-BD1D-541537A57972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115E42A4-6446-404B-BD1D-541537A57972}.Debug|Win32.ActiveCfg = Debug|Win32
+		{115E42A4-6446-404B-BD1D-541537A57972}.Debug|Win32.Build.0 = Debug|Win32
+		{115E42A4-6446-404B-BD1D-541537A57972}.Release|Win32.ActiveCfg = Release|Win32
+		{115E42A4-6446-404B-BD1D-541537A57972}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

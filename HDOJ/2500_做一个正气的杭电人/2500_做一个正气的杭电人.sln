@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2500_做一个正气的杭电人", "2500_做一个正气的杭电人\2500_做一个正气的杭电人.vcproj", "{BF2FCA00-F0F3-4641-80CD-6E24A7BF0346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2FCA00-F0F3-4641-80CD-6E24A7BF0346}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF2FCA00-F0F3-4641-80CD-6E24A7BF0346}.Debug|Win32.Build.0 = Debug|Win32
+		{BF2FCA00-F0F3-4641-80CD-6E24A7BF0346}.Release|Win32.ActiveCfg = Release|Win32
+		{BF2FCA00-F0F3-4641-80CD-6E24A7BF0346}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

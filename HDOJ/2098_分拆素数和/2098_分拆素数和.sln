@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2098_分拆素数和", "2098_分拆素数和\2098_分拆素数和.vcproj", "{6100CEAB-3AAC-4FE0-A5B0-55E0C38A55D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6100CEAB-3AAC-4FE0-A5B0-55E0C38A55D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6100CEAB-3AAC-4FE0-A5B0-55E0C38A55D0}.Debug|Win32.Build.0 = Debug|Win32
+		{6100CEAB-3AAC-4FE0-A5B0-55E0C38A55D0}.Release|Win32.ActiveCfg = Release|Win32
+		{6100CEAB-3AAC-4FE0-A5B0-55E0C38A55D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2003_求绝对值", "2003_求绝对值\2003_求绝对值.vcproj", "{BCDD4EDA-41F7-4433-A25E-7C20169207F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDD4EDA-41F7-4433-A25E-7C20169207F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCDD4EDA-41F7-4433-A25E-7C20169207F9}.Debug|Win32.Build.0 = Debug|Win32
+		{BCDD4EDA-41F7-4433-A25E-7C20169207F9}.Release|Win32.ActiveCfg = Release|Win32
+		{BCDD4EDA-41F7-4433-A25E-7C20169207F9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

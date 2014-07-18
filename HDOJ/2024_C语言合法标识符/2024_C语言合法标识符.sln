@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2024_C语言合法标识符", "2024_C语言合法标识符\2024_C语言合法标识符.vcproj", "{6515486D-7DD7-4E21-A9B2-94A2BB07D560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6515486D-7DD7-4E21-A9B2-94A2BB07D560}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6515486D-7DD7-4E21-A9B2-94A2BB07D560}.Debug|Win32.Build.0 = Debug|Win32
+		{6515486D-7DD7-4E21-A9B2-94A2BB07D560}.Release|Win32.ActiveCfg = Release|Win32
+		{6515486D-7DD7-4E21-A9B2-94A2BB07D560}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2767_Proving_Equivalences", "2767_Proving_Equivalences\2767_Proving_Equivalences.vcproj", "{6295AE92-917F-4E7B-B239-F7280A0EF300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6295AE92-917F-4E7B-B239-F7280A0EF300}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6295AE92-917F-4E7B-B239-F7280A0EF300}.Debug|Win32.Build.0 = Debug|Win32
+		{6295AE92-917F-4E7B-B239-F7280A0EF300}.Release|Win32.ActiveCfg = Release|Win32
+		{6295AE92-917F-4E7B-B239-F7280A0EF300}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2014_青年歌手大奖赛_评委会打分", "2014_青年歌手大奖赛_评委会打分\2014_青年歌手大奖赛_评委会打分.vcproj", "{97D17002-4412-4841-9EC6-A53A4CE42F9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D17002-4412-4841-9EC6-A53A4CE42F9D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97D17002-4412-4841-9EC6-A53A4CE42F9D}.Debug|Win32.Build.0 = Debug|Win32
+		{97D17002-4412-4841-9EC6-A53A4CE42F9D}.Release|Win32.ActiveCfg = Release|Win32
+		{97D17002-4412-4841-9EC6-A53A4CE42F9D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

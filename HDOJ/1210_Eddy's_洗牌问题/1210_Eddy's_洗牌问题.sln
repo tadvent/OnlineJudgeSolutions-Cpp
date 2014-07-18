@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1210_Eddy's_洗牌问题", "1210_Eddy's_洗牌问题\1210_Eddy's_洗牌问题.vcproj", "{27644D98-F59A-4F7B-999B-0843AD135E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27644D98-F59A-4F7B-999B-0843AD135E0E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27644D98-F59A-4F7B-999B-0843AD135E0E}.Debug|Win32.Build.0 = Debug|Win32
+		{27644D98-F59A-4F7B-999B-0843AD135E0E}.Release|Win32.ActiveCfg = Release|Win32
+		{27644D98-F59A-4F7B-999B-0843AD135E0E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2099_整除的尾数", "2099_整除的尾数\2099_整除的尾数.vcproj", "{68877AE1-CF77-4ABA-9E66-7D84391D2435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68877AE1-CF77-4ABA-9E66-7D84391D2435}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68877AE1-CF77-4ABA-9E66-7D84391D2435}.Debug|Win32.Build.0 = Debug|Win32
+		{68877AE1-CF77-4ABA-9E66-7D84391D2435}.Release|Win32.ActiveCfg = Release|Win32
+		{68877AE1-CF77-4ABA-9E66-7D84391D2435}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

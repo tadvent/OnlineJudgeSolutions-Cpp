@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="2222_Keywords_Search">
+</Property><Property Name="Solution File" Value="D:\docs\ACM\HDOJ\2222_Keywords_Search\2222_Keywords_Search.sln">
+</Property><Property Name="Date" Value="Wednesday, March 14, 2012">
+</Property><Property Name="Time" Value="14:49">
+</Property></Properties><Event ErrorLevel="0" Project="2222_Keywords_Search" Source="2222_Keywords_Search\2222_Keywords_Search.vcproj" Description="Converting project file 'D:\docs\ACM\HDOJ\2222_Keywords_Search\2222_Keywords_Search\2222_Keywords_Search.vcproj'.">
+</Event><Event ErrorLevel="1" Project="2222_Keywords_Search" Source="2222_Keywords_Search\2222_Keywords_Search.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="2222_Keywords_Search" Source="2222_Keywords_Search\2222_Keywords_Search.vcproj" Description="Done converting to new project file 'D:\docs\ACM\HDOJ\2222_Keywords_Search\2222_Keywords_Search\2222_Keywords_Search.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="2222_Keywords_Search" Source="2222_Keywords_Search\2222_Keywords_Search.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="2222_Keywords_Search.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="2222_Keywords_Search.sln" Description="Converted">
+</Event></UpgradeLog>

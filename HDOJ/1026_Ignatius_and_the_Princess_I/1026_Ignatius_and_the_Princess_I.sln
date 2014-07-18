@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1026_Ignatius_and_the_Princess_I", "1026_Ignatius_and_the_Princess_I\1026_Ignatius_and_the_Princess_I.vcproj", "{68BE2E2B-8BA0-43A9-AAB2-14E72569E98B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BE2E2B-8BA0-43A9-AAB2-14E72569E98B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68BE2E2B-8BA0-43A9-AAB2-14E72569E98B}.Debug|Win32.Build.0 = Debug|Win32
+		{68BE2E2B-8BA0-43A9-AAB2-14E72569E98B}.Release|Win32.ActiveCfg = Release|Win32
+		{68BE2E2B-8BA0-43A9-AAB2-14E72569E98B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

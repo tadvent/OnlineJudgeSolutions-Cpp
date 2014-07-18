@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2002_计算球体积", "2002_计算球体积\2002_计算球体积.vcproj", "{B614C59A-DD6F-4E30-AF84-B6CE39B030B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B614C59A-DD6F-4E30-AF84-B6CE39B030B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B614C59A-DD6F-4E30-AF84-B6CE39B030B9}.Debug|Win32.Build.0 = Debug|Win32
+		{B614C59A-DD6F-4E30-AF84-B6CE39B030B9}.Release|Win32.ActiveCfg = Release|Win32
+		{B614C59A-DD6F-4E30-AF84-B6CE39B030B9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

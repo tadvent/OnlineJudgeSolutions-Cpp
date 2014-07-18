@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2048_神、上帝以及老天爷", "2048_神、上帝以及老天爷\2048_神、上帝以及老天爷.vcproj", "{77A36587-92AE-4223-9E36-BBB5E5B9510E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A36587-92AE-4223-9E36-BBB5E5B9510E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{77A36587-92AE-4223-9E36-BBB5E5B9510E}.Debug|Win32.Build.0 = Debug|Win32
+		{77A36587-92AE-4223-9E36-BBB5E5B9510E}.Release|Win32.ActiveCfg = Release|Win32
+		{77A36587-92AE-4223-9E36-BBB5E5B9510E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

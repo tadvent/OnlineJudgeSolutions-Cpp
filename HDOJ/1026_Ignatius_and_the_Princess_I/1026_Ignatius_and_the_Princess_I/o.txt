@@ -1,0 +1,33 @@
+It takes 13 seconds to reach the target position, let me show you the way.
+1s:(0,0)->(1,0)
+2s:(1,0)->(1,1)
+3s:(1,1)->(2,1)
+4s:(2,1)->(2,2)
+5s:(2,2)->(2,3)
+6s:(2,3)->(1,3)
+7s:(1,3)->(1,4)
+8s:FIGHT AT (1,4)
+9s:FIGHT AT (1,4)
+10s:(1,4)->(1,5)
+11s:(1,5)->(2,5)
+12s:(2,5)->(3,5)
+13s:(3,5)->(4,5)
+FINISH
+It takes 14 seconds to reach the target position, let me show you the way.
+1s:(0,0)->(1,0)
+2s:(1,0)->(1,1)
+3s:(1,1)->(2,1)
+4s:(2,1)->(2,2)
+5s:(2,2)->(2,3)
+6s:(2,3)->(1,3)
+7s:(1,3)->(1,4)
+8s:FIGHT AT (1,4)
+9s:FIGHT AT (1,4)
+10s:(1,4)->(1,5)
+11s:(1,5)->(2,5)
+12s:(2,5)->(3,5)
+13s:(3,5)->(4,5)
+14s:FIGHT AT (4,5)
+FINISH
+God please help our poor hero.
+FINISH

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2007_平方和与立方和", "2007_平方和与立方和\2007_平方和与立方和.vcproj", "{BD606E5D-1E1F-4751-8D2C-4FAD7D40CD9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD606E5D-1E1F-4751-8D2C-4FAD7D40CD9A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD606E5D-1E1F-4751-8D2C-4FAD7D40CD9A}.Debug|Win32.Build.0 = Debug|Win32
+		{BD606E5D-1E1F-4751-8D2C-4FAD7D40CD9A}.Release|Win32.ActiveCfg = Release|Win32
+		{BD606E5D-1E1F-4751-8D2C-4FAD7D40CD9A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

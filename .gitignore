@@ -42,6 +42,7 @@ dlldata.c
 *.obj
 *.a
 *.pch
+*.ipch
 *.pdb
 *.pgc
 *.pgd
@@ -182,4 +183,22 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# Other VC generated files
+*.tlog
+
+# C++ generated files
+*.exe
+*.slo
+*.lo
+*.so
+*.dylib
+*.dll
+*.lib
+*.a
+*.lai
+*.la
+
+# Other generated files
 *.swp
+
